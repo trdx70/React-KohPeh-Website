@@ -1,0 +1,13 @@
+.proces .jumbotron img{
+    /* background-image: url('../../assets/images/coffee-beans_sel.jpg'); */
+    /* background-position: center; */
+    /* background-repeat: no-repeat; */
+    /* background-size: cover; */
+    width: 100%;
+    /* height: auto; */
+
+}
+
+.proces .jumbotron {
+    padding: 0;
+}
